@@ -37,7 +37,6 @@ def third_challenge
         :status => "alive"
         },
       :heroine_friends => []
-   }
   }
 
 
